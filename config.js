@@ -36,16 +36,6 @@ const CONFIG = {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
-        },
-        fourth: {
-            text: "Will you join me for ice cream, and watch singles inferno episode 7? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
-        },
-     fifth: {
-            text: "What time? 🌹", // The big question!
-            yesBtn: "7:00 pm",                                             // Text for "Yes" button
-            noBtn: "8:30 pm"                                                 // Text for "No" button
     },
 
     // Love meter messages
