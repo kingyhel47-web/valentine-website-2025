@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Kiela",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -37,6 +37,14 @@ const CONFIG = {
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
+    fourth: {
+            text: "Will you join me for ice cream, and watch singles inferno episode 7? 🌹", // The big question!
+            yesBtn: "Yes!",                                             // Text for "Yes" button
+            noBtn: "No"                                                 // Text for "No" button
+     fifth: {
+            text: "What time? 🌹", // The big question!
+            yesBtn: "7:00 pm",                                             // Text for "Yes" button
+            noBtn: "8:30 pm"                                                 // Text for "No" button
     },
 
     // Love meter messages
